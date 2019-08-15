@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Wake up, Neo...");
+            Console.ReadLine();
+            Console.Clear();
             Console.WriteLine("The Matrix has you...");
             Console.ReadLine();
             Console.Clear();
