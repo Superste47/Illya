@@ -5,5 +5,6 @@
 ## This is how you can run Python code:
 
 ```
-$ python3 hello_world.py
+$ cd /d H:\projects\Illya\Illya
+$ hello_world.py
 ```
